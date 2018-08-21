@@ -1,0 +1,70 @@
+[
+  {
+    "flag": "FRA",
+    "name": "France",
+    "images": [
+      {
+        "img_flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9lDYSbc_OXh81NumfFNa4pkb8PjAj0YrvGrTBk-hFGUtQSf1",
+        "img_profile": "https://i2-prod.mirror.co.uk/incoming/article12929473.ece/ALTERNATES/s1168v/france-live-thumb.jpg",
+        "img_header": "http://static.dnaindia.com/sites/default/files/styles/full/public/2018/07/16/705339-pogba-world-cup.jpg",
+        "img_detail": "https://e3.365dm.com/18/07/750x563/skynews-france-world-cup_4362782.jpg?20180715180501"
+      }
+    ],
+    "team_declaimer": "The France national football team (French: Équipe de France de football) represents France in international football and is controlled by the French Football Federation, also known as FFF, or in French.",
+    "best_result": "Winner",
+    "coach": "Didier Deschamps",
+    "leading_scorer": "Griezmann, Mbappé (4)",
+    "nick_name": " Les Bleus "
+  },
+  {
+    "flag": "CRO",
+    "name": "Croatia",
+    "images": [
+      {
+        "img_flag": "https://www.vedi-express.com/34501-large_default/officiele-vlaggen.jpg",
+        "img_profile": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/17/Pictures/fbl-wc-2018-cro_e5da966e-898f-11e8-b2f4-2ee9fa0c7dec.jpg",
+        "img_header": "https://sempreinter.com/wp-content/uploads/2018/08/Modric-01-e1533234325907.jpg",
+        "img_detail": "https://foreignpolicymag.files.wordpress.com/2018/07/gettyimages-976391036.jpg?w=1500"
+      }
+    ],
+    "team_declaimer": "The team is controlled by the Croatian Football Federation (HNS), the nation's governing body for football, and is widely supported throughout the country due to the ever-present popularity of the sport.",
+    "best_result": "Runner up",
+    "coach": "Zlatko Dalić",
+    "leading_scorer": "	Mario Mandžukić	, Ivan Perišić (3)",
+    "nick_name": "ninguno"
+  },
+  {
+    "flag": "BEL",
+    "name": "Belgium",
+    "images": [
+      {
+        "img_flag": "http://nationalflagstore.com/wp-content/uploads/2014/07/belgium-flag1.jpg",
+        "img_profile": "https://fys3.followyoursport.com/wp-content/uploads/2018/07/Belgium-1.jpg",
+        "img_header": "https://i2-prod.mirror.co.uk/incoming/article11096406.ece/ALTERNATES/s615b/2018-World-Cup-Qualifications-Europe-Belgium-vs-Gibraltar.jpg",
+        "img_detail": "http://img.uefa.com/MultimediaFiles/Photo/competitions/Comp_Matches/01/72/52/31/1725231_w1.jpg"
+      }
+    ],
+    "team_declaimer": "Belgium's national team have participated in three quadrennial major football competitions. It appeared in the end stages of thirteen FIFA World Cups and five UEFA European Championships, and featured at three Olympic football tournaments, including the 1920 Olympic tournament which they won.",
+    "best_result": "Third Place",
+    "coach": "Roberto Martínez",
+    "leading_scorer": "	Romelu Lukaku (4)",
+    "nick_name": "De Rode Duivels"
+  },
+  {
+    "flag": "ENG",
+    "name": "England",
+    "images": [
+      {
+        "img_flag": "https://qph.fs.quoracdn.net/main-qimg-c2e6e993f79945d4f6dba798c9bc956c",
+        "img_profile": "https://ichef.bbci.co.uk/images/ic/976xn/p06csmh7.jpg",
+        "img_header": "http://news.images.itv.com/image/file/1011701/img.jpg",
+        "img_detail": "https://metrouk2.files.wordpress.com/2017/10/857994392.jpg?w=620&h=413&crop=1&quality=80"
+      }
+    ],
+    "team_declaimer": "The England national football team represents England in international football and is controlled by the Football Association, the governing body for football in England.",
+    "best_result": "Fourth Place",
+    "coach": "AGareth Southgate",
+    "leading_scorer": "Harry Kane (6)",
+    "nick_name": "The Three Lions"
+  }
+]

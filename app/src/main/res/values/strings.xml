@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">Fifa2018 - Clean Architecture</string>
+
+  <string name="action_code">Show me Code</string>
+  <string name="action_blog">Read the Post / Blog</string>
+
+  <string name="text_best_result">Best Result</string>
+  <string name="text_coach">Team Coach</string>
+  <string name="text_leading_scorer">Maximum Goals</string>
+  <string name="text_nick_name">Apodo</string>
+  <string name="text_stadium">Sede</string>
+  <string name="text_history">Trayectoria en la EURO</string>
+  <string name="text_image_profile_content">Content profile</string>
+  <string name="text_image_history_content">Content history</string>
+</resources>
